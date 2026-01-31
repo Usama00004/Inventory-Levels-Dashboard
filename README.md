@@ -4,6 +4,9 @@
 This project delivers a Power BI dashboard designed to analyze **inventory stock levels** and compare **current safety stock** against a **recommended (optimized) safety stock**.  
 The dashboard helps identify overstocking, stock risk, and opportunities for inventory optimization across products, plants, and business units.
 
+![Inventory Level Report](https://github.com/Usama00004/Inventory-Level-Report/raw/main/Display%20Image.png)
+
+
 
 
 ## Objectives
